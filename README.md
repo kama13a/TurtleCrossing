@@ -24,7 +24,7 @@ The player controls a turtle that must cross a busy road filled with moving cars
 ---
 
 ## 📁 Project Structure
-TurtleCrossing/
+ex02/
 ├── screen.py # Game loop
 
 ├── object_turtle.py # Player class (turtle)
